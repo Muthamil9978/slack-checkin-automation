@@ -1,0 +1,5 @@
+yagmail
+slack_sdk
+python-dotenv
+pandas
+openpyxl
